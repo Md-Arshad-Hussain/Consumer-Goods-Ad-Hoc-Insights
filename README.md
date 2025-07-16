@@ -16,18 +16,18 @@ As a junior data analyst applicant, I:
 ---
 
 ## 💡 Key Insights
-| #  | Business Request                                            | Key Insight Example                      |
-|----|-------------------------------------------------------------|------------------------------------------|
-| Q1 | Markets for “Atliq Exclusive” in APAC                       | Operates in multiple APAC markets        |
-| Q2 | % increase in unique products (2021 vs. 2020)               | 29.17% product growth                    |
-| Q3 | Unique products by segment                                  | Mass segment leads in count              |
-| Q4 | Segment with highest growth in unique products              | Mass segment again shows largest growth |
-| Q5 | Product with highest/lowest manufacturing cost              | Cost varies widely                       |
-| Q6 | Top 5 Indian customers by average discount in FY 2021       | Discounts reach up to 7.5%               |
-| Q7 | Monthly gross sales trend for “Atliq Exclusive”             | Peak in March, lowest in June            |
-| Q8 | Best performing quarter in FY 2020                          | Q3 had highest sold quantity             |
-| Q9 | Channel with top gross sales & contribution % in FY 2021   | B2B dominates with 73.54% contribution   |
-| Q10| Top 3 products by division in FY 2021                       | Top sellers clearly identified           |
+| #  | Business Request                                            
+|----|----------------------------------------------------------
+| Q1 | Markets for “Atliq Exclusive” in APAC                       
+| Q2 | % increase in unique products (2021 vs. 2020)                             
+| Q3 | Unique products by segment                                  
+| Q4 | Segment with the highest growth in unique products              
+| Q5 | Product with the highest/lowest manufacturing cost             
+| Q6 | Top 5 Indian customers by average discount in FY 2021     
+| Q7 | Monthly gross sales trend for “Atliq Exclusive”             
+| Q8 | Best performing quarter in FY 2020                         
+| Q9 | Channel with top gross sales & contribution % in FY 2021  
+| Q10| Top 3 products by division in FY 2021                      
 
 ---
 
