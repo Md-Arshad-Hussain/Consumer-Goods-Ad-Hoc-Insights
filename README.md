@@ -1,4 +1,4 @@
-# Ad Hoc Insights – AtliQ SQL Case Study
+# Consumer Goods Ad Hoc Insights – AtliQ Hardware SQL Project
 
 ## 🧠 Problem Statement
 AtliQ Hardwares is a leading computer hardware company in India, rapidly expanding internationally. However, leadership faced a lack of quick, data-informed insights for strategic decisions.
