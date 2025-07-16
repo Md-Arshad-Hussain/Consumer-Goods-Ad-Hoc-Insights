@@ -51,7 +51,8 @@ The `'gdb023'` (also referred to as `atliq_hardware_db`) database was provided f
 ---
 
 ## 🛠 Tools Used
-- MySQL (SQL)
+- MySQL 
+- Power BI
 - PowerPoint
 - Data from: gdb023 case database
 
