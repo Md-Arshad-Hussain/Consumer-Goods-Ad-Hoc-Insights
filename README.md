@@ -1,14 +1,16 @@
 # Consumer Goods Ad Hoc Insights – AtliQ Hardware SQL Project
 
 ## 🧠 Problem Statement
-AtliQ Hardwares is a leading computer hardware company in India, rapidly expanding internationally. However, leadership faced a lack of quick, data-informed insights for strategic decisions.
+AtliQ Hardwares is a fictional company and one of the leading producers of computer hardware in India, with a growing global presence. The company specializes in selling computers and related accessories across various markets.
 
-To strengthen their data analytics team, they designed a hiring case study with 10 real-world business queries.
+Despite its success, the management team identified a gap in their ability to make quick and data-informed decisions. Business teams often lacked access to timely insights, leading to delays in strategic actions. To address this issue, Tony Sharma, the Director of Data Analytics at AtliQ, initiated a SQL Challenge to evaluate and recruit capable junior data analysts.
+
+This challenge was designed not only to test technical proficiency in SQL but also to assess business thinking and communication skills, crucial for turning raw data into meaningful insights.
 
 ---
 
 ## 🎯 Task Simulation
-As a junior data analyst applicant, I:
+As a data analyst applicant, I:
 - Solved 10 ad hoc business requests using optimized SQL queries
 - Delivered insights in a stakeholder-ready PowerPoint presentation
 - Demonstrated both technical and communication skills
